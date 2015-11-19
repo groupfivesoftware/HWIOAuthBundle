@@ -1,6 +1,6 @@
 Changelog
 =========
-
+* Added Pinterest resource owner
 ## 0.4.0 (2015-??-??)
 * [BC break] Added `UserResponseInterface#getFirstName()` method, also a new default path `firstname`
   was added, this path holds the first name of user,

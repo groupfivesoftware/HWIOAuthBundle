@@ -43,6 +43,7 @@ class Configuration implements ConfigurationInterface
             'eve_online',
             'eventbrite',
             'facebook',
+            'pinterest',
             'fiware',
             'foursquare',
             'github',
