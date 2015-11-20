@@ -20,7 +20,6 @@ This bundle contains support for 40 different providers:
 * Dropbox,
 * EVE Online,
 * Facebook,
-* Pinterest,
 * FI-WARE,
 * Flickr,
 * Foursquare,
@@ -33,6 +32,7 @@ This bundle contains support for 40 different providers:
 * Mail.ru
 * Odnoklassniki,
 * PayPal,
+* NEW: Pinterest,
 * QQ,
 * Salesforce,
 * Sensio Connect,
@@ -44,6 +44,7 @@ This bundle contains support for 40 different providers:
 * Toshl,
 * Twitch,
 * Twitter,
+* NEW: Tumblr,
 * VKontakte,
 * Wechat,
 * Windows Live,

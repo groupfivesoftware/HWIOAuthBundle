@@ -81,6 +81,7 @@ class Configuration implements ConfigurationInterface
             'stereomood',
             'trello',
             'twitter',
+            'tumblr',
             'xing',
             'yahoo',
         ),
