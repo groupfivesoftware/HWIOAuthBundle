@@ -35,7 +35,7 @@ class PinterestResourceOwner extends GenericOAuth2ResourceOwner
     public function getAuthorizationUrl($redirectUri, array $extraParameters = array())
     {
         //Pinterest supports only https redirect urls
-        $redirectUri = str_replace('http','https',$redirectUri);
+        $redirectUri = str_replace('http:','https:',$redirectUri);
         return parent::getAuthorizationUrl($redirectUri, $extraParameters);
     }
     /**
